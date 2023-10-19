@@ -1,15 +1,3 @@
-public class ContaPoupanca {
-    public int agencia;
-    public int numero;
-    public double saldo;
+public class ContaPoupanca extends Conta {
 
-    public void sacar(){
-
-    }
-    public void depositar(){
-
-    }
-    public void transferir(){
-
-    }
 }
